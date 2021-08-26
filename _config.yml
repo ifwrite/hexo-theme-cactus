@@ -85,7 +85,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/logo.png
+  url: https://img.icons8.com/ios/100/000000/hedgehog--v2.png
   gravatar: false
   grayout: false
 
@@ -100,13 +100,13 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/favicon.ico
+    url: https://img.icons8.com/ios/100/000000/hedgehog--v2.png
     gravatar: false
   android:
-    url: /images/favicon-192x192.png
+    url: https://img.icons8.com/ios/100/000000/hedgehog--v2.png
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: https://img.icons8.com/ios/100/000000/hedgehog--v2.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
